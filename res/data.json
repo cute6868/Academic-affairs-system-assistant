@@ -1,0 +1,23 @@
+{
+  "People0": {
+    "switch": "False",
+    "auto-login": "True",
+    "url": "请在这里输入教务系统网址",
+    "account": "请在这里输入您的学号",
+    "password": "请在这里输入您的密码"
+  },
+  "People1": {
+    "switch": "True",
+    "auto-login": "True",
+    "url": "请在这里输入教务系统网址",
+    "account": "请在这里输入您的学号",
+    "password": "请在这里输入您的密码"
+  },
+  "People2": {
+    "switch": "False",
+    "auto-login": "True",
+    "url": "请在这里输入教务系统网址",
+    "account": "请在这里输入您的学号",
+    "password": "请在这里输入您的密码"
+  }
+}
